@@ -1,5 +1,5 @@
 - Hi, I’m @jsinger1225
-- I’m looking to collaborate on ...
+- I’m looking to collaborate on /dev branch by email
 - How to reach me ... jamie.singer@gmail.com
 
 <!---
